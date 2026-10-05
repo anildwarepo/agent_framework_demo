@@ -1,0 +1,11 @@
+agent-framework-core>=1.13.0,<2
+agent-framework-openai>=1.12.0,<2
+azure-identity
+agent-framework-orchestrations
+agent-framework-a2a>=1.0.0b260730
+mcp>=1.24.0,<2
+colorama>=0.4.6
+fastapi
+python-dotenv
+opentelemetry-sdk>=1.39.0,<2
+uvicorn[standard]
